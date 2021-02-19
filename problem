@@ -1,0 +1,4 @@
+Write a program that finds the local maxima of a list of integers.
+
+A local maxima in a list is a number that is greater than or equal to adjacent
+numbers.
